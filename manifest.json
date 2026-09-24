@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Aliyu Phone Hub",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Aliyu Phone Hub",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Aliyu Phone Hub sells mobile phones, screens and phone parts, with repair services and WhatsApp ordering",
+  "id": "aliyuphonehub"
+}
